@@ -2,4 +2,4 @@
 
 ## My projects : 
 
-- [BoostOne](https://drmolixcool.github.com/boostone)
+- [BoostOne](https://drmolixcool.github.io/boostone)
